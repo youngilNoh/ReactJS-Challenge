@@ -2,6 +2,8 @@
  ReactJS 2 weeks challenge with nico
 
 ---
+---
+---
 
 # 공부 내용
 
@@ -99,3 +101,9 @@ if(!greetings.includes("Hello")) {
 
 greetings.forEach(greeting => {console.log(greeting)});
 ```
+
+---
+---
+---
+
+<a href="https://codesandbox.io/s/day-three-blueprint-forked-wgkvb?file=/src/Components/App.js"> Day3 Challenge </a>
