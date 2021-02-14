@@ -26,7 +26,6 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
-  "homepage": "https://youngilNoh.github.io/ReactJS-Challenge",
   "eslintConfig": {
     "extends": [
       "react-app",
