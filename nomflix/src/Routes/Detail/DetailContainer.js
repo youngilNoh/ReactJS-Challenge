@@ -22,7 +22,6 @@ export default class DetailContainer extends React.Component {
 				params: { id },
 			},
 			history: { push },
-			location: { pathname },
 		} = this.props;
 		const { isMovie } = this.state;
 		const parseId = parseInt(id);

@@ -6,7 +6,7 @@ import Search from '../Routes/Search';
 import Header from './Header';
 import Detail from '../Routes/Detail';
 
-export default () => (
+const GlobalRouter = () => (
 	<Router>
 		<Header />
 		<Switch>
@@ -19,3 +19,5 @@ export default () => (
 		</Switch>
 	</Router>
 );
+
+export default GlobalRouter;
