@@ -115,5 +115,8 @@ greetings.forEach(greeting => {console.log(greeting)});
 
 
 ---
-Nomflix-github
+# Nomflix-github
 <a href="https://youngilnoh.github.io">Nomflix-github</a>
+
+# Nomflix-netlify
+<a href="https://festive-kare-c1e748.netlify.app">Nomflix-netlify</a>
