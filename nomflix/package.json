@@ -26,6 +26,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
+  "homepage": "https://festive-kare-c1e748.netlify.app/",
   "eslintConfig": {
     "extends": [
       "react-app",
